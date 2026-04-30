@@ -1,6 +1,6 @@
 # 🧠 How LLMs Actually Work: Topic 1
 
-Large Language Models like **ChatGPT**, **Claude**, and **Gemini** might feel like magic, but they are built on a foundation of **Science, Math, and Code**. Specifically, they rely on the **GPT** architecture.
+Large Language Models like **ChatGPT**, **Claude**, and **Gemini** might feel like magic, but they are built on a foundation of **Science, Math, and Code**.  they rely on the **GPT** architecture.
 
 ---
 
