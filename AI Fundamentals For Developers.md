@@ -4,7 +4,7 @@ Large Language Models like **ChatGPT**, **Claude**, and **Gemini** might feel li
 
 ---
 
-## 1. The GPT Breakdown
+## 1. The GPT Breakdown's
 * **Generative:** Unlike search engines (which index and retrieve), LLMs generate new content by predicting the next sequence of tokens on the spot.
 * **Pre-trained:** The model is trained on massive datasets (the internet, books, code) before it is ready for use.
 * **Transformer:** The core architectural "heart" (introduced by Google in the 2017 paper *"Attention Is All You Need"*).
