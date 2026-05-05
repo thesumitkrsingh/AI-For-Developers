@@ -1,2 +1,2 @@
 # AI-For-Developers
-A Comprehensive Guide Using AI as A Developer 
+A Comprehensive Guide Using AI as A Developers 
