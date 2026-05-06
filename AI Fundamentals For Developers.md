@@ -15,7 +15,7 @@ Large Language Models like **ChatGPT**, **Claude**, and **Gemini** might feel li
 
 ### Phase 1: Encoding & Tokenization
 Computers don't understand words; they understand numbers.
-* **Tokenization:** Breaking text into "tokens" (chunks of characters, words, or sub-words).
+* **Tokenization:** Breaking text into "tokens" (chunks of characters, words, or sub-words)
 * **Vocabulary:** Each model has a fixed dictionary (vocab size) that maps tokens to unique IDs.
 * **The Process:** `Input Text` → `Tokens` → `Numerical IDs`.
 
